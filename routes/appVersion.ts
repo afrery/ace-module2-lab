@@ -5,6 +5,7 @@
 
 import config from 'config'
 import { type Request, type Response } from 'express'
+import config
 
 import * as utils from '../lib/utils'
 
